@@ -1,6 +1,14 @@
-# Hi, I'm Parth Patel 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=250&section=header&text=Hi ! I am Parth%20Patel&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=38" />
+</p>
 
-🎓 Electronics & Computer Engineering Student  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+Embedded+Systems+%7C+Robotics;Electronics+%26+Computer+Engineering;Future+AI+%2B+Hardware+Integration" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN Stack+%7C+Embedded+Systems+%7C;Electronics+%26+Computer+Engineering+Student;Building+Real-World+Systems;Future+AI+%2B+Embedded+Integration" />
+</p>
+
 📍 India  
 💡 Passionate about AI, Embedded Systems & Robotics
 
@@ -77,8 +85,8 @@ Full Stack MERN application for managing garage operations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthp-labs&show_icons=true&theme=tokyonight" height="170" width="100%"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight" height="170" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight" height="200" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight" height="200" />
 </p>
 
 ## 📫 Connect With Me
