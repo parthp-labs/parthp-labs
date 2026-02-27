@@ -8,6 +8,7 @@
 
 📍 India  
 👨‍💻 First Year Electronics & Computer Engineering Student
+
 💡 Passionate about AI, Embedded Systems & Robotics
 
 <p>
