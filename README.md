@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+Embedded+Systems+%7C+Robotics;Electronics+%26+Computer+Engineering;Future+AI+%2B+Hardware+Integration" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines=MERN%Stack+%7C+Embedded+Systems+%7C;Electronics+%26+Computer+Engineering+Student;Building+Real-World+Systems;Future+AI+%2B+Embedded+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=750&lines="MERN%Stack+%7C+Embedded+Systems+%7C;Electronics+%26+Computer+Engineering+Student;Building+Real-World+Systems;Future+AI+%2B+Embedded+Integration" />
 </p>
 
 📍 India  
