@@ -1,14 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=250&section=header&text=Hi%20!%20I%20am%20Parth%20Patel&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=38" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+Embedded+Systems+%7C+Robotics;Electronics+%26+Computer+Engineering;Future+AI+%2B+Hardware+Integration" />
 </p>
 
 📍 India  
 👨‍💻 First Year Electronics & Computer Engineering Student
-
 💡 Passionate about AI, Embedded Systems & Robotics
 
 <p>
