@@ -19,10 +19,6 @@
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,javascript" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman,flask,npm,vercel,docker" />
-</p>
-
 ## 🚀 About Me
 
 - 🔭 Currently building: **Health Band System (FY Project)**
