@@ -110,23 +110,24 @@ Full Stack MERN application for managing garage operations.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthp-labs&theme=tokyonight" height="200"
-       style="border: 2px solid white; border-radius: 10px;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthp-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200"
-       style="border: 2px solid white; border-radius: 10px;"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight"
-        height="180"
-       style="border: 2px solid white; border-radius: 10px;"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight"
-       height="180"
-       style="border: 2px solid white; border-radius: 10px;"/>
-</p>
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://streak-stats.demolab.com?user=parthp-labs&theme=tokyonight&hide_border=true" style="border: 1px"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthp-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight"/>
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight&hide_border=true"/>
+    </td>
+  </tr>
+</table>
 
 ## 📫 Connect With Me
 
