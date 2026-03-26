@@ -45,6 +45,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Joi](https://img.shields.io/badge/Joi-8A2BE2?style=for-the-badge)
 ![Nodemailer](https://img.shields.io/badge/Nodemailer-009688?style=for-the-badge)
+[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 
 ### ⚙️ Embedded
 
