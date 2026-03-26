@@ -111,12 +111,21 @@ Full Stack MERN application for managing garage operations.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=parthp-labs&theme=tokyonight" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=parthp-labs&theme=tokyonight" height="200"
+       style="border: 2px solid white; border-radius: 10px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthp-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="200"
+       style="border: 2px solid white; border-radius: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight" height="200" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight"
+        height="180"
+       style="border: 2px solid white; border-radius: 10px;"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight"
+       height="180"
+       style="border: 2px solid white; border-radius: 10px;"/>
 </p>
 
 ## 📫 Connect With Me
