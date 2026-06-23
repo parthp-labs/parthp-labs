@@ -21,7 +21,6 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building: **Auto-Garage Management System (Paid Project)**
 - 🤖 Future Goal: AI/ML + Embedded Systems Integration
 - 📚 Self-learning Computer Science alongside college
 
