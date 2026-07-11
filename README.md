@@ -1,109 +1,105 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=250&section=header&text=Hi%20!%20I%20am%20Parth%20Patel&fontSize=50&fontColor=58A6FF&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=250&section=header&text=Hi%20there%2C%20I'm%20Parth%20Patel&fontSize=42&fontColor=58A6FF&animation=twinkling&fontAlignY=38" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+Embedded+Systems;Electronics+%26+Computer+Engineering;Future+AI+%2B+Hardware+Integration" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+Embedded+Systems+%7C+Full+Stack;Electronics+%26+Computer+Engineering+Student;Building+at+the+Intersection+of+AI+%2B+Hardware" />
 </p>
 
-📍 India  
-👨‍💻 First Year Electronics & Computer Engineering Student  
-💡 Passionate about AI, Embedded Systems & Robotics
-
-🚀 Building real-world systems at the intersection of **AI, Embedded Systems, and Backend Engineering**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,qt,c,cpp,java,git,github,vscode,arduino" />
+<p align="center">
+  <img src="https://img.shields.io/badge/📍-India-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🎓-2nd%20Year%20ECE%20Student-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/💡-AI%20%2B%20Embedded-58A6FF?style=flat-square" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,redux,vite,javascript" />
-</p>
+---
 
-## 🚀 About Me
+## 👋 About Me
 
-- 🤖 Future Goal: AI/ML + Embedded Systems Integration
-- 📚 Self-learning Computer Science alongside college
+I'm a second-year Electronics & Computer Engineering student who builds real-world systems where **AI, embedded hardware, and backend engineering** meet. Outside the classroom, I'm self-teaching computer science and shipping side projects — from IoT health monitors to full-stack MERN applications.
+
+- 🤖 **Currently exploring:** Embedded Systems and AI-ML
+- 🛠️ **Currently building:** IoT + backend projects that connect sensors to real applications
+
+- 🎯 **Long-term goal:** Work at the intersection of AI and embedded/robotic systems
+
+---
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,html,css,tailwind,vite" />
+<img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" title="JWT" />
+<img height="48" src="https://cdn.simpleicons.org/stripe/008CDD" title="Stripe" />
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Joi](https://img.shields.io/badge/Joi-8A2BE2?style=for-the-badge)
-![Nodemailer](https://img.shields.io/badge/Nodemailer-009688?style=for-the-badge)
-[![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)](https://stripe.com/)
 
-### ⚙️ Embedded
+<!-- REST API and Joi have no public logo anywhere — these stay as text badges -->
 
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![PlatformIO](https://img.shields.io/badge/PlatformIO-F5822A?style=for-the-badge&logo=platformio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=arduino,ros" />
+<img height="48" src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32 (Espressif)" />
+<img height="48" src="https://cdn.simpleicons.org/platformio/F5822A" title="PlatformIO" />
 
-### 🛠️ Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux,ubuntu" />
+<img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
 
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Cron](https://img.shields.io/badge/Cron%20Jobs-Scheduler-blue?style=for-the-badge)
-![MongoDB Compass](https://img.shields.io/badge/MongoDB_Compass-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Dev Console](https://img.shields.io/badge/DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
-![Terminal](https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnubash&logoColor=white)
+---
 
 ## 📌 Featured Projects
 
-### 🩺 Health Band System
+### 🩺 [Health Band System](#)
 
-IoT-based smart health monitoring system using ESP32.
+IoT-based smart health monitoring system built on ESP32.
 
-- Real-time health monitoring using ESP32 sensors
-- Designed API pipeline for transmitting sensor data to backend
-- Implemented system-level reliability for continuous tracking
-- Focus: IoT architecture + hardware-software integration
+- Streams real-time vitals from ESP32 sensors to a backend API pipeline
+- Designed for reliable, continuous tracking at the hardware level
+- Focus: end-to-end IoT architecture — from sensor to server
 
-**Tech:** ESP32, Node.js, Express, MongoDB
+**Tech:** ESP32 · Node.js · Express · MongoDB
 
----
+### 🛒 [Grocery Store Management System](#)
 
-### 🛒 Grocery Store Management System
+Backend-focused inventory and billing system for retail operations.
 
-Backend-focused inventory and billing management system.
+- Full CRUD for products and stock with validation at every layer
+- Structured, normalized database design for scalability
+- Clean, modular backend architecture
 
-- Product & stock management
-- CRUD operations with validation
-- Structured database design
-- Focus on clean architecture & scalable backend logic
+**Tech:** Node.js · Express · MongoDB
 
-**Tech:** Node.js, Express, MongoDB
+### 🚗 [Auto Garage Management System](#)
 
----
+Full-stack MERN application for managing day-to-day garage operations.
 
-### 🚗 Auto Garage Management System
+- Authentication and state management via Redux Toolkit + RTK Query
+- Backend request validation using Joi
+- Salary tracking and automated report generation
 
-Full Stack MERN application for managing garage operations.
+**Tech:** MongoDB · Express · React · Node.js
 
-- Authentication with Redux Toolkit + RTK Query
-- Backend validation using Joi
-- Salary management & report generation
-- Designed with modular architecture
+### 🐚 [Mini Shell (C)](#)
 
-**Tech:** MongoDB, Express, React, Node.js
+A lightweight Unix-style command shell built from scratch in C.
+
+- Implements a custom parser for command execution, piping, and I/O redirection
+- Handles process creation and management via `fork()`/`exec()`/`wait()` system calls
+- Built-in commands (`cd`, `exit`, `pwd`, etc.) alongside external program execution
+- Focus: low-level systems programming and understanding how shells actually work under the hood
+
+**Tech:** C · POSIX System Calls · Unix/Linux
+
+### 🚁 ESP32 Drone Firmware
+
+Custom flight-controller firmware for a quadcopter built on the ESP32.
+
+- Reads and fuses IMU sensor data (accelerometer/gyroscope) for real-time orientation estimation
+- Implements a PID control loop to stabilize pitch, roll, and yaw
+- Translates flight commands into PWM signals for ESC/motor control
+- Focus: real-time embedded control systems and sensor-driven feedback loops
+
+**Tech:** ESP32 · C/C++ · PlatformIO · PID Control
 
 ---
 
@@ -112,23 +108,34 @@ Full Stack MERN application for managing garage operations.
 <table width="100%" align="center">
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://streak-stats.demolab.com?user=parthp-labs&theme=tokyonight&hide_border=true" style="border: 1px"/>
+      <img width="100%" src="https://streak-stats.demolab.com?user=parthp-labs&theme=tokyonight&hide_border=true" />
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthp-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthp-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight"/>
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight" />
     </td>
     <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight&hide_border=true"/>
+      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
+---
+
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/parth-patel-31431436b/
-- Email: parthp.tech@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/parth-patel-31431436b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:parthp.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+- 🔗 LinkedIn: [linkedin.com/in/parth-patel-31431436b](https://www.linkedin.com/in/parth-patel-31431436b/)
+- 📧 Email: [parthp.tech@gmail.com](mailto:parthp.tech@gmail.com)
