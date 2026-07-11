@@ -41,6 +41,7 @@ I'm a second-year Electronics & Computer Engineering student who builds real-wor
   <img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" title="JWT" />
   <img height="48" src="https://cdn.simpleicons.org/stripe/008CDD" title="Stripe" />
 </p>
+
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Joi](https://img.shields.io/badge/Joi-8A2BE2?style=for-the-badge)
 
