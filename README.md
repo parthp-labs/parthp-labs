@@ -31,11 +31,16 @@ I'm a second-year Electronics & Computer Engineering student who builds real-wor
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
 </p>
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=sklearn" />
+  <img height="48" src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter Notebook" />
+  <img height="48" src="https://cdn.simpleicons.org/pandas/150458/FFFFFF" title="pandas" />
+  <img height="48" src="https://cdn.simpleicons.org/numpy/013243/FFFFFF" title="NumPy" />
+</p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,html,css,tailwind,vite" />
   <img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" title="JWT" />
   <img height="48" src="https://cdn.simpleicons.org/stripe/008CDD" title="Stripe" />
 </p>
-
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Joi](https://img.shields.io/badge/Joi-8A2BE2?style=for-the-badge)
 
