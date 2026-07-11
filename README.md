@@ -27,23 +27,27 @@ I'm a second-year Electronics & Computer Engineering student who builds real-wor
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,html,css,tailwind,vite" />
-<img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" title="JWT" />
-<img height="48" src="https://cdn.simpleicons.org/stripe/008CDD" title="Stripe" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,html,css,tailwind,vite" />
+  <img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" title="JWT" />
+  <img height="48" src="https://cdn.simpleicons.org/stripe/008CDD" title="Stripe" />
+</p>
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Joi](https://img.shields.io/badge/Joi-8A2BE2?style=for-the-badge)
 
-<!-- REST API and Joi have no public logo anywhere — these stay as text badges -->
-
-<img src="https://skillicons.dev/icons?i=arduino,ros" />
-<img height="48" src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32 (Espressif)" />
-<img height="48" src="https://cdn.simpleicons.org/platformio/F5822A" title="PlatformIO" />
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux,ubuntu" />
-<img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,ros" />
+  <img height="48" src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32 (Espressif)" />
+  <img height="48" src="https://cdn.simpleicons.org/platformio/F5822A" title="PlatformIO" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux,ubuntu" />
+  <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
+</p>
 
 ---
 
