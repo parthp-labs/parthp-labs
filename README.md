@@ -1,115 +1,176 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=250&section=header&text=Hi%20there%2C%20I'm%20Parth%20Patel&fontSize=42&fontColor=58A6FF&animation=twinkling&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=250&section=header&text=Hi%20there,%20I'm%20Parth%20Patel&fontSize=42&fontColor=58A6FF&animation=twinkling&fontAlignY=38" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=800&lines=AI+%7C+Embedded+Systems+%7C+Full+Stack;Electronics+%26+Computer+Engineering+Student;Building+at+the+Intersection+of+AI+%2B+Hardware" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=58A6FF&center=true&vCenter=true&width=850&lines=Robotics+%7C+Embedded+Systems+%7C+ROS+2;AI%2FML+%7C+Computer+Vision+%7C+Autonomous+Systems;Electronics+%26+Computer+Engineering+Student;Building+ at+the+Intersection+of+Software+%2B+Hardware" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/📍-India-58A6FF?style=flat-square" />
   <img src="https://img.shields.io/badge/🎓-2nd%20Year%20ECE%20Student-58A6FF?style=flat-square" />
-  <img src="https://img.shields.io/badge/💡-AI%20%2B%20Embedded-58A6FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/🤖-Robotics%20%26%20Embedded-58A6FF?style=flat-square" />
 </p>
 
 ---
 
 ## 👋 About Me
 
-I'm a second-year Electronics & Computer Engineering student who builds real-world systems where **AI, embedded hardware, and backend engineering** meet. Outside the classroom, I'm self-teaching computer science and shipping side projects — from IoT health monitors to full-stack MERN applications.
+I'm a second-year Electronics & Computer Engineering student interested in building systems where **robotics, embedded software, AI, and full-stack engineering** come together. I enjoy working across the stack — from firmware and sensor interfaces to ROS 2 software, backend services, and web dashboards.
 
-- 🤖 **Currently exploring:** Embedded Systems and AI-ML
-- 🛠️ **Currently building:** IoT + backend projects that connect sensors to real applications
-
-- 🎯 **Long-term goal:** Work at the intersection of AI and embedded/robotic systems
+- 🤖 **Currently building:** A ROS 2-based autonomous search-and-rescue drone with the Odyssey Club's Space Rovers & Drones Team for NIDAR.
+- 🔧 **Embedded systems:** Working on an ESP32 bootloader and firmware-management workflow; OTA updates are currently in progress.
+- 🧠 **Exploring:** AI/ML, computer vision, state estimation, SLAM, and computer architecture.
+- 🎯 **Long-term goal:** Build intelligent autonomous robotic and embedded systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript" />
 </p>
+
+### Robotics, Embedded Systems & Hardware
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ros,arduino,linux" />
+  <img height="48" src="https://cdn.simpleicons.org/espressif/E7352C" title="Espressif / ESP32" />
+  <img height="48" src="https://cdn.simpleicons.org/platformio/F5822A" title="PlatformIO" />
+</p>
+
+**Technologies:** ROS 2, ESP32, Raspberry Pi, Jetson Orin, Pixhawk 6, FreeRTOS, PlatformIO, Gazebo, PID control, I2C, SPI, UART, WebSockets.
+
+### AI, Machine Learning & Data
 <p align="left">
   <img src="https://skillicons.dev/icons?i=sklearn" />
   <img height="48" src="https://cdn.simpleicons.org/jupyter/F37626" title="Jupyter Notebook" />
-  <img height="48" src="https://cdn.simpleicons.org/pandas/150458/FFFFFF" title="pandas" />
-  <img height="48" src="https://cdn.simpleicons.org/numpy/013243/FFFFFF" title="NumPy" />
+  <img height="48" src="https://cdn.simpleicons.org/pandas/150458" title="Pandas" />
+  <img height="48" src="https://cdn.simpleicons.org/numpy/013243" title="NumPy" />
 </p>
+
+**Technologies:** NumPy, Pandas, scikit-learn, data preprocessing, classification, regression, model evaluation. Currently exploring YOLO-based detection, computer vision, and SLAM for robotics applications.
+
+### Web & Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,react,redux,html,css,tailwind,vite" />
-  <img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000/FFFFFF" title="JWT" />
+  <img height="48" src="https://cdn.simpleicons.org/jsonwebtokens/000000" title="JWT" />
   <img height="48" src="https://cdn.simpleicons.org/stripe/008CDD" title="Stripe" />
 </p>
 
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
-![Joi](https://img.shields.io/badge/Joi-8A2BE2?style=for-the-badge)
+**Technologies:** MERN stack, REST APIs, JWT authentication, Redux Toolkit, RTK Query, Tailwind CSS, Joi, Stripe.
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,ros" />
-  <img height="48" src="https://cdn.simpleicons.org/espressif/E7352C" title="ESP32 (Espressif)" />
-  <img height="48" src="https://cdn.simpleicons.org/platformio/F5822A" title="PlatformIO" />
-</p>
+### Tools & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux,ubuntu" />
-  <img height="48" src="https://cdn.simpleicons.org/swagger/85EA2D" title="Swagger" />
 </p>
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🩺 [Health Band System](#)
+### 🚁 Autonomous Search-and-Rescue Drone | Odyssey Club · NIDAR
+**Status: In Progress**
 
-IoT-based smart health monitoring system built on ESP32.
+Developing the robotics software stack for an autonomous search-and-rescue drone as part of the Odyssey Club — Space Rovers & Drones Team.
 
-- Streams real-time vitals from ESP32 sensors to a backend API pipeline
-- Designed for reliable, continuous tracking at the hardware level
-- Focus: end-to-end IoT architecture — from sensor to server
+- Developing a modular ROS 2 architecture with controller, PID, estimator, and motor-command components.
+- Working toward integration with **Jetson Orin** and **Pixhawk 6** hardware.
+- Exploring YOLO-based human detection and SLAM-based mapping for search scenarios in rubble.
 
-**Tech:** ESP32 · Node.js · Express · MongoDB
+**Tech:** ROS 2 · C++ · Python · Jetson Orin · Pixhawk 6 · Gazebo · PID · YOLO · SLAM
 
-### 🛒 [Grocery Store Management System](#)
+### 🩺 Smart Health Band & Emergency Response System
+**Achievement: First Prize — College Project**
 
-Backend-focused inventory and billing system for retail operations.
+An ESP32-based IoT health-monitoring prototype integrated with a web dashboard and AI-assisted health summaries.
 
-- Full CRUD for products and stock with validation at every layer
-- Structured, normalized database design for scalability
-- Clean, modular backend architecture
+- Built an ESP32-C3 wearable prototype to monitor pulse rate and SpO₂ and transmit readings to a backend.
+- Added medication reminders and audible alerts for emergency scenarios.
+- Developed a React dashboard with live-vitals visualization, rule-based abnormality detection, and SOS event logging.
+- Integrated Google Gemini to generate understandable summaries and emergency messages.
 
-**Tech:** Node.js · Express · MongoDB
+**Tech:** ESP32-C3 · React · Node.js · Express.js · MongoDB · REST APIs · Google Gemini API
 
-### 🚗 [Auto Garage Management System](#)
+[GitHub Repository](https://github.com/parthp-labs/Health-Band) · [Live Demo](https://health-band-eosin.vercel.app/)
 
-Full-stack MERN application for managing day-to-day garage operations.
+### ⚙️ ESP32 Bootloader & OTA Firmware Update System
+**Status: OTA Update In Progress**
 
-- Authentication and state management via Redux Toolkit + RTK Query
-- Backend request validation using Joi
-- Salary tracking and automated report generation
+Working on an ESP32 firmware-management workflow.
 
-**Tech:** MongoDB · Express · React · Node.js
+- Implemented the ESP32 bootloader component for the firmware workflow.
+- Developing Over-The-Air (OTA) update functionality to support wireless firmware deployment without physical access to the device.
 
-### 🐚 [Mini Shell (C)](#)
+**Tech:** ESP32 · Embedded C/C++ · PlatformIO
 
-A lightweight Unix-style command shell built from scratch in C.
+### 🚗 Auto Garage Management System
+**Status: Deployed — Real-World Client Application**
 
-- Implements a custom parser for command execution, piping, and I/O redirection
-- Handles process creation and management via `fork()`/`exec()`/`wait()` system calls
-- Built-in commands (`cd`, `exit`, `pwd`, etc.) alongside external program execution
-- Focus: low-level systems programming and understanding how shells actually work under the hood
+A full-stack MERN application built for an auto garage and used in day-to-day business operations.
+
+- Developed modules for customers, vehicles, job cards, inventory, workers, and expenses.
+- Implemented JWT-based authentication and role-based access control.
+- Built REST APIs and a responsive React frontend using Redux Toolkit and RTK Query.
+- Added invoice/report generation and WhatsApp service-completion and payment reminders.
+
+**Tech:** MongoDB · Express.js · React.js · Node.js · Redux Toolkit · RTK Query · JWT · Tailwind CSS
+
+[Live Demo](https://autogarage-management-client.vercel.app/)
+
+### 📊 OBE Analytics UI Kit | Internship Project — Phase I
+
+Contributed to Phase I of an Outcome-Based Education (OBE) Analytics UI Kit, focused on the interface for presenting education-outcome analytics.
+
+### 🛒 Grocery Store — MERN E-Commerce Application
+
+A full-stack e-commerce application with product, user, order, and authentication workflows.
+
+- Developed REST APIs for products, users, orders, and authentication.
+- Integrated Stripe for online payments.
+- Built a responsive React frontend and managed server data using Redux Toolkit and RTK Query.
+
+**Tech:** MongoDB · Express.js · React.js · Node.js · Redux Toolkit · RTK Query · Stripe · Cloudinary
+
+[GitHub Repository](https://github.com/parthp-labs/grocery-store-mern) · [Live Demo](https://grocery-store-mern-frontend-seven.vercel.app/)
+
+### 🐍 Python File Organizer | CS50 Final Project
+
+A Python file-management utility with both graphical and command-line interfaces.
+
+- Built a PySide6 GUI and CLI for automatic file categorization and folder creation.
+- Added duplicate-file detection and automated file organization.
+
+**Tech:** Python · PySide6
+
+### 🧩 Mini Shell (C)
+
+A lightweight Unix-style command shell built in C.
+
+- Implemented command parsing, piping, and I/O redirection.
+- Used POSIX process-management calls such as `fork()`, `exec()`, and `wait()`.
+- Added built-in commands such as `cd`, `exit`, and `pwd`.
 
 **Tech:** C · POSIX System Calls · Unix/Linux
 
-### 🚁 ESP32 Drone Firmware
+### 🛸 ESP32 Quadcopter Firmware
 
-Custom flight-controller firmware for a quadcopter built on the ESP32.
+Embedded firmware work focused on sensor-driven flight control.
 
-- Reads and fuses IMU sensor data (accelerometer/gyroscope) for real-time orientation estimation
-- Implements a PID control loop to stabilize pitch, roll, and yaw
-- Translates flight commands into PWM signals for ESC/motor control
-- Focus: real-time embedded control systems and sensor-driven feedback loops
+- Worked on IMU data acquisition and orientation estimation.
+- Implemented PID-based stabilization logic and PWM motor-control output.
+- Used FreeRTOS tasks and WebSocket-based telemetry in the firmware architecture.
 
-**Tech:** ESP32 · C/C++ · PlatformIO · PID Control
+**Tech:** ESP32 · C/C++ · FreeRTOS · PlatformIO · PID · WebSockets
+
+---
+
+## 🎓 Education & Certifications
+
+- **B.Tech — Electronics & Computer Engineering**, KJ Somaiya School of Engineering (Expected 2029)
+- **CGPA:** 9.6/10
+- **CS50: Introduction to Computer Science** — Harvard (2025)
+- **Full Stack Web Development** — Udemy (2025)
 
 ---
 
@@ -125,11 +186,8 @@ Custom flight-controller firmware for a quadcopter built on the ESP32.
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td colspan="2" align="center">
       <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=parthp-labs&theme=tokyonight" />
-    </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parthp-labs&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
@@ -145,7 +203,11 @@ Custom flight-controller firmware for a quadcopter built on the ESP32.
   <a href="mailto:parthp.tech@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/parthp-labs" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 - 🔗 LinkedIn: [linkedin.com/in/parth-patel-31431436b](https://www.linkedin.com/in/parth-patel-31431436b/)
 - 📧 Email: [parthp.tech@gmail.com](mailto:parthp.tech@gmail.com)
+- 💻 GitHub: [github.com/parthp-labs](https://github.com/parthp-labs)
