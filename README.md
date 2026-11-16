@@ -178,12 +178,10 @@ Embedded firmware work focused on sensor-driven flight control.
 
 <table width="100%" align="center">
   <tr>
-    <td width="50%" align="center">
+    <td width="100%" align="center">
       <img width="100%" src="https://streak-stats.demolab.com?user=parthp-labs&theme=tokyonight&hide_border=true" />
     </td>
-    <td width="50%" align="center">
-      <img width="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=parthp-labs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-    </td>
+    
   </tr>
   <tr>
     <td colspan="2" align="center">
